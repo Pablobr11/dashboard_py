@@ -12,7 +12,7 @@ An interactive web application built with Python and Streamlit to explore global
 ---
 
 ## 🖼️ Preview
-![Preview do Dashboard](preview.png)
+![Preview do Dashboard](imagdfe 1.png) (image 1.png)
 ## 🚀 Project Overview
 
 As a Data Student, I built this project to understand how variables like **Experience Level**, **Employment Type**, and **Location** impact compensation in the Tech Industry.
